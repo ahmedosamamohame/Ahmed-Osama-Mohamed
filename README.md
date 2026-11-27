@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=200&section=header&text=Ahmed%20Osama%20Elshakoushy&fontSize=40&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20BLoC&descSize=18&descAlignY=68" alt="Ahmed Osama Elshakoushy banner" width="100%">
+<img src="banner.png" alt="Ahmed Osama banner" width="100%">type=waving&color=0:02569B,100:0175C2&height=200&section=header&text=Ahmed%20Osama%20Elshakoushy&fontSize=40&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20BLoC&descSize=18&descAlignY=68" alt="Ahmed Osama Elshakoushy banner" width="100%">
 
 ### Flutter Developer · Dart · Firebase · Clean Architecture · BLoC
 ### Google Maps & Real-time Apps
